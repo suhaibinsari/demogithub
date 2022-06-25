@@ -4,3 +4,9 @@ h1{
     border-style: dashed;
     margin-top: 150px;
 }
+h2{
+    text-align: center;
+    color: green;
+    border-style: dashed;
+    margin-top: 150px;
+}
