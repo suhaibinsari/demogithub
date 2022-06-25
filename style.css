@@ -10,3 +10,15 @@ h2{
     border-style: dashed;
     margin-top: 150px;
 }
+P{
+    text-align: center;
+    color: yellow;
+    border-style: dashed;
+    margin-top: 150px;
+}
+h1{
+    text-align: center;
+    color: peru;
+    border-style: dashed;
+    margin-top: 150px;
+}
